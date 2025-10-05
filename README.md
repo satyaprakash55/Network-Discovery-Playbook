@@ -492,4 +492,4 @@ awk '$9==404 {print $1}' /var/log/nginx/access.log | sort | uniq -c | sort -nr |
 
 ---
 
-*End of commands section. You can copy these blocks into `playbooks/*.md` files in the canvas repo or let me generate each file for you.*
+
